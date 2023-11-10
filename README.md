@@ -1,2 +1,2 @@
-# 40_DhruvalGandhi
-This repo contains all the lab works and assignment for the subject of Machine Learning
+# Machine Learning Experiments
+This repo contains all the lab works to learn and understand the Machine Learning.
